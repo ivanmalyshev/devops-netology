@@ -6,3 +6,4 @@ HI! First commit on 22:42 02.08
 переменные терраформ tfvars
 файлы переопределения override.tf
 файлы конфигураций CLI .terraformrc terraform.rc
+add gitlab repo
